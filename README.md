@@ -16,6 +16,8 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 📁 inteligencia/    → Expedientes de los héroes enemigos
 📄 misiones.yaml    → Estado global de todas las misiones
 📄 nuevas-misiones.yaml    → Estado global de todas las nuevasmisiones
+📄 README.yaml      → Documentación principal del repositorio
+
 ```
 
 ## El Consejo de Villanos
