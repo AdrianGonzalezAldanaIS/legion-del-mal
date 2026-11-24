@@ -21,7 +21,7 @@ jobs:
       - name: Ahora sí, vamos a ver los planes
         run: |
             echo "Buscar los archivos de la Legión"
-            ls -la del mal"
+            ls -la
             echo "🆗 funciona!!!!"
             echo ""
             echo "Planes: "
