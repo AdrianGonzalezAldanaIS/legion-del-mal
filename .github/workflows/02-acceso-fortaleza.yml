@@ -30,3 +30,4 @@ jobs:
             ls planvillanoses/
             echo "Inteligencia: "
             ls inteligencia/
+            echo "🆗 todo listo para la misión"
