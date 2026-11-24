@@ -1,0 +1,23 @@
+name: Reclutamiento de Agente
+
+on: push
+jobs:
+  reporte-de-reclutamiento:
+    runs-on: ubuntu-latest
+    steps:
+      - name: El Agente se presenta
+        run: echo "Hola, soy Lex Luthor, líders, líder  de la Legión del mal."
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run recruitment report script
+        run: |
+          python scripts/reporte_reclutamiento.py
