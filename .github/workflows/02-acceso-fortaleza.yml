@@ -27,7 +27,7 @@ jobs:
             echo "Planes: "
             ls planes/
             echo "Vilanos: "
-            ls planvillanoses/
+            ls miembros/
             echo "Inteligencia: "
             ls inteligencia/
             echo "🆗 todo listo para la misión"
