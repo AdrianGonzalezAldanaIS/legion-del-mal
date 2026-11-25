@@ -24,6 +24,20 @@ on:
             - Darkseid
             - Sinestro
 
+        mensaje:
+          description: 'Mensaje para el consejo'
+          required: true
+          default: 'La misión fue un éxito'
+
+        prioridad:
+          description: 'Nivel de prioridad'
+          required: true
+          type: choice
+          options:
+            - ⚫ Normal
+            - ⚫ Alta
+            - ⚫ Critica
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
