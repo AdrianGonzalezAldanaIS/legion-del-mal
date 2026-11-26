@@ -9,3 +9,9 @@ Estos osn los planes de control mental que se pueden usar en el juego. Cada plan
 3. Aplica el efecto del plan del control mental según las reglas del juego.
 4. Registra el uso del plan de control mental en tu hoja del personaje o el registro del juego.
 5. Medir el alcance del control mental
+
+## Plan de escape
+
+- **Si el clon es descubierto:** activar autodestrucción del clon (se desintegra en 60 segundos)
+- **Si Superman escapa de la celda:** evacuación inmediata de la Fortaleza Prohibida. Magneto y Doctor Doom contienen a Superman mientras el resto escapa.
+- **Si el clon se rebela:** ... Brainiac dice que el chip de control funcionará. Lex Luthor no está tan seguro.

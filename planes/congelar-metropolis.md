@@ -10,3 +10,9 @@ El objetivo es congelar la ciudad de Metropolis para detener el tiempo y preserv
 4. **Monitorea el proceso**: Supervisa el estado de la ciudad durante el proceso de congelación para asegurarte de que todo funcione correctamente
 5. **Mantenimiento del estado de congelación**: Una vez que la ciudad este congelada, realiza inspecciones periódicas para garantizar que el estado de congelación se mantenga.
 6. **Descongelación controlada**: Cuan sea necesario descongelar la ciudad, sigue un protocolo seguro para restaurar el flujo normal de tiempo y actividad.
+
+## Plan de escape
+
+- **Si el clon es descubierto:** activar autodestrucción del clon (se desintegra en 60 segundos)
+- **Si Superman escapa de la celda:** evacuación inmediata de la Fortaleza Prohibida. Magneto y Doctor Doom contienen a Superman mientras el resto escapa.
+- **Si el clon se rebela:** ... Brainiac dice que el chip de control funcionará. Lex Luthor no está tan seguro.
