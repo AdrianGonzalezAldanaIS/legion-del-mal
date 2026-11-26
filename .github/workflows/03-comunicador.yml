@@ -37,6 +37,21 @@ on:
             - ⚫ Normal
             - ⚫ Alta
             - ⚫ Critica
+        
+        cow_character:
+          description: 'Personaje de la vaca'
+          required: true
+          type: choice
+          options:
+            - eyes
+            - tux
+            - dragon
+            - ghostbusters
+            - vader
+            - bunny
+            - cheese
+            - moose
+            - stegosaurus
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -64,7 +79,7 @@ jobs:
           echo ""
           echo "Fecha: $(date -u +"%d-%m-%Y - %H:%M UTC")"
           echo "_____ Mensaje______"
-          cowsay -f eyes "${{ inputs.mensaje }}"
+          cowsay -f "${{ inputs.cow_character }}" "${{ inputs.mensaje }}"
           echo ""
           echo "__ ${{ inputs.villano }} __"
           echo "..."
